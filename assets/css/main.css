@@ -315,7 +315,7 @@ h6 {
     visibility: hidden;
     left: 14px;
     top: 130%;
-    opacity: 0;
+    opacity: 1;
     transition: 0.3s;
     border-radius: 4px;
     z-index: 99;
@@ -591,7 +591,7 @@ h6 {
     height: 72px;
     top: calc(50% - 36px);
     left: calc(50% - 36px);
-    opacity: 0;
+    opacity: 1;
   }
 }
 
@@ -601,7 +601,7 @@ h6 {
 .scroll-top {
   position: fixed;
   visibility: hidden;
-  opacity: 0;
+  opacity: 1;
   right: 15px;
   bottom: -15px;
   z-index: 99999;
