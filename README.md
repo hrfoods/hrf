@@ -48,7 +48,7 @@ Need assistance or want to place an order? We're here to help!
 
 ## Visit Us
 
-Check out our website for more details and to place your order: [Manodhan - Where Quality Meets Purity](#https://hrfoods.github.io/hrf/)
+Check out our website for more details and to place your order: [Manodhan - Where Quality Meets Purity](https://hrfoods.github.io/hrf/)
 
 ## License
 
